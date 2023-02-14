@@ -1,0 +1,2 @@
+#!/bin/bash
+val=$TRUEKNOWLEDGE result=$((val+128)) && echo $result
