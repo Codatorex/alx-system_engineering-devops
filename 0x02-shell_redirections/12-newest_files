@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1tr $( find /tmp/ -type f -print )
+ls -t1 | head -n 10
